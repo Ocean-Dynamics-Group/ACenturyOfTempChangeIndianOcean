@@ -1,4 +1,4 @@
-# ACenturyOfTempIndianOcean
+# ACenturyOfTempChangeIndianOcean
 
 This repository contains analysis code for the manuscript:
 
