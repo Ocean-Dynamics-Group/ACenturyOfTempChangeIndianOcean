@@ -7,7 +7,7 @@ This repository contains analysis code for the manuscript:
 ## DATA
 Raw data (as digitized from the historical cruise reports) can be found in [/data/](https://github.com/Ocean-Dynamics-Group/ACenturyOfTempChangeIndianOcean/tree/main/data) in [pickle](https://docs.python.org/3/library/pickle.html#module-pickle) format, along with scripts used in loading and processing the historical and modern datasets. Information on which observations are included in the final analysis can be found in [/src/loadPickle.py](https://github.com/Ocean-Dynamics-Group/ACenturyOfTempChangeIndianOcean/blob/main/src/loadPickle.py).
 
-A netcdf file containing only the quality controlled historical measurements is also provided in [/data/](https://github.com/Ocean-Dynamics-Group/ACenturyOfTempChangeIndianOcean/blob/main/data/GazelleValdiviaPlanet_v1p0.nc). This is the recommended starting point if you intend to use the historical data in your own separate analysis.
+A [netcdf file](https://github.com/Ocean-Dynamics-Group/ACenturyOfTempChangeIndianOcean/blob/main/data/GazelleValdiviaPlanet_v1p0.nc) containing only the quality controlled historical measurements is also provided in /data/. This is the recommended starting point if you intend to use the historical data in your own separate analysis.
 
 ## ANALYSIS
 All code necessary for reproducing figures can be found in the iPython notebooks ([/notebooks/](https://github.com/Ocean-Dynamics-Group/ACenturyOfTempChangeIndianOcean/tree/main/notebooks)).
