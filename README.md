@@ -15,3 +15,10 @@ All code necessary for reproducing figures can be found in the iPython notebooks
 Note that these notebooks are set up as Google Colaboratory notebooks, but can easily be adapted for use in a standard python environment. To use these in Google Colab, first clone the repository to a google drive account, and then open the notebook using Google Colab. The first code cell of each notebook will configure the necessary environment.
 
 Code for the least-squares analysis of modern minus historical temperature changes can be found at: https://github.com/ggebbie/HistoricalIndianOcean.
+
+## CITATION
+A permanent citable doi for this code can be found at: 
+
+[![DOI](https://zenodo.org/badge/502983134.svg)](https://zenodo.org/badge/latestdoi/502983134)
+
+
