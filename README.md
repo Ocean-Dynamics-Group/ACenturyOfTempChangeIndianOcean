@@ -21,4 +21,11 @@ A permanent citable doi for this code can be found at:
 
 [![DOI](https://zenodo.org/badge/502983134.svg)](https://zenodo.org/badge/latestdoi/502983134)
 
+A citable repository containing just the data in netcdf form can be found at:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6646659.svg)](https://doi.org/10.5281/zenodo.6646659)
+
+
+
+
 
